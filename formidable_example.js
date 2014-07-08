@@ -1,3 +1,5 @@
+// Completely standalone example using 'formidable'
+
 var formidable = require('formidable'),
   http = require('http'),
   sys = require('sys');
